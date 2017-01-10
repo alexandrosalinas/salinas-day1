@@ -7,5 +7,5 @@ void draw() {
 }else{
   fill)225);
 }
-ellipse (mouseX, mouseY, 50, 50);
+rectangle (mouseX, mouseY, 50, 50);
 }
